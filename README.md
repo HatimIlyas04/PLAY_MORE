@@ -6,12 +6,12 @@ Welcome to **Web Play More**, the ultimate web application for discovering and p
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [🎮 Features](#features)
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [📬 Contact](#contact)
 
 ## Features
 
